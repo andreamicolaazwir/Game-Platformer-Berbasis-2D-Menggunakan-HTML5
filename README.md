@@ -2,8 +2,8 @@
 Game ini dibuat sebagai kebutuhan untuk menyelesaikan ujian akhir semester pada salah satu mata kuliah.
 Pengembangan game ini dibuat menggunakan bahasa pemrograman Javascript dengan library gameLib.js.
 
-Kriteria :
-Bahasa Pemrograman : JavaScript
+Kriteria : <br>
+Bahasa Pemrograman : JavaScript<br>
 Software yang digunakan :
 1. Notepad++, untuk merancang FrontEnd pada game tersebut.
 2. Adobe Flash Player, untuk mendesain map serta obstacle dan NPC pada game.
