@@ -4,10 +4,10 @@ Pengembangan game ini dibuat menggunakan bahasa pemrograman Javascript dengan li
 
 Kriteria : <br>
 A. Bahasa Pemrograman : JavaScript<br>
-B. Software yang digunakan :
-  1.   Notepad++, untuk merancang FrontEnd pada game tersebut.
-  2.   Adobe Flash Player, untuk mendesain map serta obstacle dan NPC pada game.
-  3.   Browser (Chrome,Mozila,Edge, Dll), sebagai wadah untuk menjalankan game tersebut.
+B. Software yang digunakan :<br> 
+1.Notepad++, untuk merancang FrontEnd pada game tersebut.<br>
+2.Adobe Flash Player, untuk mendesain map serta obstacle dan NPC pada game.<br>
+3.Browser (Chrome,Mozila,Edge, Dll), sebagai wadah untuk menjalankan game tersebut.<br>
 
 Referensi :
 https://www.youtube.com/watch?v=Z3f86mI0SUc&t=2508s
